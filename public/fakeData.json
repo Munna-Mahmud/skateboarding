@@ -1,0 +1,88 @@
+[
+
+    {
+        "id": 1,
+        "name": "Majestix Skateboard",
+        "price": "$1265",
+       
+        "img": "https://i.ibb.co/Lx7nKxN/Product10-86b30b2f-eb07-48db-86c0-fd68bf2e88fb-large.webp"
+    },
+    {
+        "id": 2,
+        "name": "Capix Skateboard",
+        "price": "$740",
+       
+        "img": "https://i.ibb.co/P6XhkKC/H2product1.png"
+    },
+    {
+        "id": 3,
+        "name": "Pediatrics",
+        "price": "$485",
+       
+        "img": "https://i.ibb.co/8BCww30/Product4-5fd52354-8d86-4cba-80dc-652ecad7af86-large.webp"
+    },
+    {
+        "id": 4,
+        "name": "Creature skateboards",
+        "price": "$602",
+     
+        "img": "https://i.ibb.co/J2jms6V/Product5-1508ed76-33ce-4e26-bd86-6e2adb51364e-large.webp"
+    },
+    {
+        "id": 5,
+        "name": "Falcon Skateboard",
+        "price": "$900",
+    
+        "img": "https://i.ibb.co/5k7TzTm/H2product2-605620a6-905f-4c66-b0ff-b1b21b6673bc.png"
+    },
+     {
+        "id": 6,
+        "name": "Hotshot Skatboard",
+        "price": "$840",
+        
+        "img": "https://i.ibb.co/3SPsMFs/Product7-dd09bbd6-bcd1-445b-afdb-d3494e4acf52-large.webp"
+    },
+    {
+        "id": 7,
+        "name": "Le Play Skateboard",
+        "price": "$676",
+       
+        "img": "https://i.ibb.co/NSNPJ9z/H2-Product3-e215fb04-9a78-4356-a16e-9c3a1a600a26-large.webp"
+    },
+    {
+        "id": 8,
+        "name": "Ranger Skateboard",
+        "price": "$760",
+        
+        "img": "https://i.ibb.co/1JkDC6p/Product9-5a1ee5bb-a388-4395-9b63-632526b7d1f7-large.webp"
+    },
+     {
+        "id": 9,
+        "name": "RawZest Skateboard",
+        "price": "$1230",
+       
+        "img": "https://i.ibb.co/xq6xP9K/Product11-029e605e-fe8a-4ebf-a691-f891083a1f90-large.webp"
+    }, 
+    {
+        "id": 10,
+        "name": "Rip Curl Skateboard",
+        "price": "$860",
+       
+        "img": "https://i.ibb.co/t3PfdbB/Product12-ee3cb45a-5c2d-460f-8f8c-7566b83b5bff-large.webp"
+    },
+    {
+        "id":11,
+        "name": "Slayer Play Skateboard",
+        "price": "$500",
+       
+        "img": "https://i.ibb.co/R7JyCrN/Product3-d353fa78-265c-453b-9863-7482973045b0-large.webp"
+    } ,
+     {
+        "id":12,
+        "name": "SportPixel Skatboard",
+        "price": "$300",
+       
+        "img": "https://i.ibb.co/NSNPJ9z/H2-Product3-e215fb04-9a78-4356-a16e-9c3a1a600a26-large.webp"
+    } 
+     
+]

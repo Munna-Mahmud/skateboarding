@@ -1,0 +1,36 @@
+
+.card-img-top {
+    min-width: 100%;
+    width: auto;
+    /* height: 450px; */
+    background-color: #3b3f42;
+    border-radius: 20px;
+}
+.products-card img{
+        transition: transform 1.9s;
+
+    }
+
+    .products-card img:hover{
+        margin-top: -5px;
+    }
+
+ .btn{
+        background-color:#ff5209 ;
+ }
+
+
+.btn:hover{
+        background-color: black ;
+        border: 1px solid #ff5209;
+ }
+
+ .products-card{
+     border-radius: 20px;
+     background-color: #3b3f42;
+ }
+ .products-card2{
+     border-radius: 0 0 20px 20px;
+     background-color: #3b3f42;
+ }
+

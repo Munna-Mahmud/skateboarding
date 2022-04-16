@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name" : "RASALINA DE WILLAMSON",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/9tMmtqq/test-1-medium.webp",
+        "ratting": 5
+    },
+    {
+        "id": 2,
+        "name" : "Munna Mahmud",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/NLDPj3c/test-3-medium.webp",
+        "ratting": 4
+    },
+    {
+        "id": 3,
+        "name" : "Sujon Chokroborti",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/7Q997bw/test-2-medium.webp",
+        "ratting": 4.5
+    },
+    {
+        "id": 4,
+        "name" : "Dj Rocky",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/wNH9NdR/test-4-medium.webp",
+        "ratting": 1
+    },
+    {
+        "id": 5,
+        "name" : "Jastin",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/9tMmtqq/test-1-medium.webp",
+        "ratting": 4
+    },
+    {
+        "id": 6,
+        "name" : "Mojnu",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/7Q997bw/test-2-medium.webp",
+        "ratting": 2.5
+    },
+    {
+        "id": 7,
+        "name" : "Tripaty",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/NLDPj3c/test-3-medium.webp",
+        "ratting": 2
+    },
+    {
+        "id": 8,
+        "name" : "Jankar Mahbub",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/NLDPj3c/test-3-medium.webp",
+        "ratting": 3.2
+    }
+    ,
+    {
+        "id": 9,
+        "name" : "Maruf Mobin",
+        "description" : "Been to this stunning place many times over the last years. Tonight I have to say, it was good as it ever was. Superb food, exceedingly.",
+        "designation" : "FOUNDER & CO",
+        "imgUrl" : "https://i.ibb.co/NLDPj3c/test-3-medium.webp",
+        "ratting": 3
+    }
+    
+]

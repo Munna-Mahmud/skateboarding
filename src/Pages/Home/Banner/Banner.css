@@ -1,0 +1,29 @@
+.banner{
+    background-image: url('../../../assets/slider1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.banner-text{
+    margin-top: 15rem ;
+    position: absolute;
+    text-align: start;
+    margin-left: 5rem;
+
+}
+
+.know-btn{
+    background-color:black;
+    border: 1px solid #ff5209;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    
+}
+.know-btn:hover{
+    background-color:#ff5209 ;
+}
